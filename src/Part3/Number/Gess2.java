@@ -2,9 +2,11 @@ package Part3.Number;
 
 public class Gess2 {
 	public static void main(String[] args){
-		char c1 = '\u002E';
-		String u = "\377";
-		System.out.println('u');
-		System.out.println("a\u0022+\u0022b");
+		System.out.println("a\u0022.length()+\u0022b".length());
+		System.out.println("\u0022.length() + \u0022");
+		System.out.println("a\".length()+\"b".length());
+		System.out.println("\"");
+		System.out.println("".length());
+		System.out.println('\u0022');
 	}
 }
