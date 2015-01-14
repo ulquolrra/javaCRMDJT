@@ -6,5 +6,6 @@ public class First {
 		String s2 = "Java";
 		System.out.println(s1);
 		System.out.println(s2);
+		System.exit(0);
 	}
 }
