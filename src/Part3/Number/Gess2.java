@@ -8,5 +8,7 @@ public class Gess2 {
 		System.out.println("\"");
 		System.out.println("".length());
 		System.out.println('\u0022');
+//		System.out.println("".length()+"");
+		System.exit(0);
 	}
 }

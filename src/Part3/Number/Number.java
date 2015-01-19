@@ -1,0 +1,17 @@
+package Part3.Number;
+
+public class Number {
+	public static void main(String[] args){
+		/*byte mybyte = 124;
+		short myshort = 32564;
+		int myint = 45784612;
+		long mylong = 46789451;
+		long result = mybyte + myshort + myint + mylong;
+		System.out.println("result is " + result);*/
+		int c = 0123;
+		int b = 0x25;
+		System.out.println(c);
+		System.out.println(b);
+		System.exit(0);
+	}
+}
