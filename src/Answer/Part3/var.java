@@ -1,4 +1,4 @@
-package Answer;
+package Answer.Part3;
 
 public class var {
 	public static void main(String[] args){
